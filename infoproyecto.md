@@ -8,6 +8,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ### **Definicion de Stakeholders:**
 
 ***Agricultores:*** 
@@ -24,4 +36,3 @@ Son los encargados de intermediar entre los agricultores y los mercados locales,
 ***Mercados Locales:*** Son los encargados de conectar la producción con el hogar. Su función principal es el abastecimiento de alimentos frescos y productos de primera necesidad en un área geográfica delimitada, como un barrio, pueblo o ciudad. Se enfrentan a problemáticas como: Altos Precios de Productos e Insumos: Esto al comprar a los Intermediarios y administrar estos mercados; Informalidad de estos mercados: Usualmente son plazas, mercados municipales,ferias campesinas, etc. ; Pérdida de Alimentos: Debido a poco manejo de medidas alimenticias, causadas por el clima, lugar de trabajo y demás.
 
 ![Mercados Locales](https://muniguatealfrente.com/wp-content/uploads/WhatsApp-Image-2025-07-10-at-10.38.40-AM-3.jpeg)
-
