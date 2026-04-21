@@ -3,10 +3,6 @@
 ## *Visión*
 
 ```
-Aquí tienes la visión de AgroFlow expandida y 
-enriquecida:
-
-Visión de AgroFlow
 AgroFlow nace de una realidad que afecta a miles de 
 familias en el campo: los agricultores pierden sus 
 cosechas por no encontrar compradores a tiempo, los 
