@@ -39,6 +39,28 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Tabla de Requerimientos del Sistema
 
 ## Requerimientos Funcionales
