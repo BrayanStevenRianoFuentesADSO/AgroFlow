@@ -2,7 +2,7 @@
 
 ## *Visión*
 
-```
+
 AgroFlow nace de una realidad que afecta a miles de 
 familias en el campo: los agricultores pierden sus 
 cosechas por no encontrar compradores a tiempo, los 
@@ -28,6 +28,7 @@ publicar sus necesidades de abastecimiento, comparar
 ofertas y planificar sus compras con anticipación, 
 reduciendo costos y garantizando la calidad de los 
 productos que adquieren.
+
 El tercer pilar de AgroFlow es la red de transporte 
 colaborativa, un sistema inteligente que coordina rutas, 
 optimiza cargas y conecta a los transportadores con 
@@ -40,6 +41,6 @@ apuesta por la transformación del sector agrícola desde
 sus raíces, poniendo la tecnología al servicio de 
 quienes producen los alimentos que sostienen a toda una 
 sociedad.
-```
+
 
 ![Imagen_agricola](https://radionacional-v3.s3.amazonaws.com/s3fs-public/node/article/field_image/Campesinofinagro%20%281%29.jpg)
