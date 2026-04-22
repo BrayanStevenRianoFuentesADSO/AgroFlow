@@ -15,3 +15,8 @@ mientras que los negocios locales sufren por precios altos de intermediarios. No
 sistema organizado que permita mapear la oferta y demanda en tiempo real.
 
 ![campesinos](https://ieu.unal.edu.co/wp-content/uploads/2024/08/mujeres-campesinas-trabajando-la-tierra.webp)
+
+# desarrollo del proyecto
+
+El proyecto de agroflow lo puedes ver con mas detalles por medio de este link:
+- https://trello.com/invite/b/69e6914da1c5ffc85fe5295a/ATTI79b7522151f7f73e2fd4acd92ed172eaA247A540/agroflow
