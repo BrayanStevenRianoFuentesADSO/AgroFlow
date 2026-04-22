@@ -133,3 +133,4 @@
 - Como comerciante, quiero recibir alertas de nuevos productos para aprovechar oportunidades de compra
 
 - Como productor, quiero actualizar la disponibilidad de mis productos para evitar vender productos agotados
+
