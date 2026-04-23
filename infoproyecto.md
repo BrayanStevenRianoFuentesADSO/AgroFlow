@@ -45,6 +45,15 @@ sociedad.
 ![Imagen_agricola](https://radionacional-v3.s3.amazonaws.com/s3fs-public/node/article/field_image/Campesinofinagro%20%281%29.jpg)
 
 
+### **Roles***
+- Scrum Master: Brayan Riaño
+- Product Owner: Juan David Pérez
+- Developer: Nicolás Sierra
+- Developer: Eidan Cuadros
+- Developer: Alejandro Gallo
+
+
+
 ### **Definicion de Stakeholders:**
 
 ***Agricultores:*** 
