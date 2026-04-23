@@ -339,3 +339,7 @@ Como plataforma, se quiere lograr que los comerciantes participen activamente en
 - Como comerciante, quiero recibir alertas de nuevos productos para aprovechar oportunidades de compra
 
 - Como comerciante, quiero comunicarme directamente con los agricultores para negociar condiciones de compra
+
+
+# video
+https://drive.google.com/drive/folders/1Ss4dtsGx5iVoORZY6r93S2I6GONxuMj6?usp=drive_link
